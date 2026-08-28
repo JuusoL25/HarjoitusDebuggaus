@@ -23,22 +23,20 @@ Kierros kolme: elif,
 Kierros neljä: elif,
 Kierros viisi: else,
 5. Kokeile muuttaa salainen_luku kiinteäksi arvoksi (esim. salainen_luku = 7) ja tarkkaile, miten peli käyttäytyy. = Salainen luku pysyy samana jokaisella pelikerralla, eli jos pelaaja yrittää sitä uudestaan seuraavalla pelikerralla niin vastaus on sama, jolloin pelattavuus häviää = peli on kertakäyttöinen.
-
-
+<br><br>
 # Word length bug debug
 
 <img width="2558" height="1439" alt="World lenght bug" src="https://github.com/user-attachments/assets/cf840336-7ddf-4f37-87b8-7acf6da0d771" />
 
 
 Koodi käy wordlistiä läpi ja päivittää "max_length" ja "longest_word" muuttujia aina kun uusi pisin sana löytyy. Koodin rivien sisennyksen takia koodissa on ongelmia, eli tabulaattorilla koodi ensin oikein sisennetyksi. "for/if-loopissa" oli ongelma myös kohdassa "if 5>max_length". Kun koodin pitää verrata "Word length" tallennettuun max_length arvoon. Eli "5" kohdalle täytyy korvata "Word_length"
-
+<br><br>
 # Syntax error tehtävä 
 
 <img width="2498" height="1403" alt="image" src="https://github.com/user-attachments/assets/132ac877-824b-48e5-b5d9-00c714f7169d" />
 
 Rivillä 6 ja 7 sisennys täytyi korjata "blockin" sisään, eli "calculate_area" funktion sisään. 
 Rivillä 14 "area = calculate_area(length, width" puuttui kokonaan sulkeva sulku ")". 
-
 <br><br> 
 
 # Indentation error
@@ -46,6 +44,15 @@ Rivillä 14 "area = calculate_area(length, width" puuttui kokonaan sulkeva sulku
 <img width="2204" height="1274" alt="image" src="https://github.com/user-attachments/assets/56b3a905-93be-46a0-aad2-37d31bd93d86" />
 
 Yksinkertaisesti täytyi korjata sisennys funktion sisällä, riveillä 6 ja 7
+<br><br>
+
+# Indentation and typo error 
+
+<img width="2201" height="1345" alt="image" src="https://github.com/user-attachments/assets/936f75fe-e9d4-4a53-9130-c464f7e60909" />
+
+Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pitäisi lukea "len(name)"
+
+<br><br>
 
 
 
