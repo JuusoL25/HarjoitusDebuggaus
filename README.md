@@ -93,6 +93,52 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
 
  </p>
 </details>
+<br><br>
+
+<details>
+ <summary> [Tentti] Laskin error tehtävä </summary>
+ <p>
+   <img width="2215" height="1403" alt="image" src="https://github.com/user-attachments/assets/8d514e72-f4f5-4866-9c9e-6104413be80a" />
+  Sisennykset piti korjata riveillä 6,7,10,11 
+   Rivillä 19 "sum_result" kutsui funktiota "multiply_numbers(a,b)" vaikka olisi pitänyt kutsua funktionia "add_numbers(a,b)" 
+   Rivillä 23 "multiply_result" kutsui funktiota "add_numbers(a,b)" vaikka olisi pitänyt kutsua funktiota "multiply_numbers(a,b)"
+
+ </p>
+</details>
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </p>
 </details>
