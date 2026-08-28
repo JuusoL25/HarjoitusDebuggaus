@@ -76,8 +76,17 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
   Riveillä 2,3,4 sisennys virheellinen. Korjataan se. 
   Rivillä 9 kohta "result = calculate_average(numbers)" on virheellinen, kun siitä puuttuu "*" ennen "numbers" sanaa. * symbolia käytetään kun "callataan functionia" ja halutaan purkaa listasta yksittäiset asiat. Tässä tapauksessa "result" avulla callattiin functionia "calculate_average(num1, num2, num3)". Jouduin selvittämään että miksi "*" käytetään listan sisällön purussa, koska en osannut asiaa ennestään.
 
-  
+ </p>
+</details>
+<br><br>
+
+<details>
+ <summary> Sisennys ja looginen virhe?  </summary>
+ <p>
+   <img width="2201" height="1374" alt="image" src="https://github.com/user-attachments/assets/25292cc1-08df-4b2e-84c7-8ab42174b4ae" />
+   Tehtävänä oli tehdä oikeanlaiset sisennykset koodille, ja verrata odotettua "outputtia" toteutuvaan outputtiin. Tuloksena oli odotettu output eli koodissa ei ollut logiikka virhettä.
 
  </p>
 </details>
+
 
