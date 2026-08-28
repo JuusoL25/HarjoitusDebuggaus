@@ -106,6 +106,34 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
  </p>
 </details>
 <br><br>
+<details>
+ <summary> [Tentti] Arvosana tarkistaja </summary>
+ <p>
+   Lähtötilanne sisennettynä:
+  <img width="2208" height="1403" alt="image" src="https://github.com/user-attachments/assets/625651c6-9441-4206-a7c9-a9cd3df02a31" />
+
+  Koodi antoi F tuloksen numeroille: 85, 75, 65, 55 koska ne eivät olleet täsmä lukuja funktiossa käytettyjen "==" symboleiden mukaisesti. Kun vaihdettiin tilalle : ">=" niin koodi antoi oikeat arvosanat. Myös rivin 20 "print" toiminto oli huonosti sisennetty.
+  <img width="2212" height="1406" alt="image" src="https://github.com/user-attachments/assets/8e64db35-e797-4d68-9a67-729076486ca3" />
+
+ </p>
+</details>
+<br><br> 
+
+<details>
+ <summary> [Tentti] Numerot suurempi kuin 10 </summary>
+ <p>
+   Lähtötilanne:
+   <img width="2214" height="1399" alt="image" src="https://github.com/user-attachments/assets/2aab0026-f1c0-4e21-affc-f4b862af70a0" />
+   Rivillä 6, laskennan pitäisi lähteä 0:sta eikä 1:stä. 
+   Rivillä 8, on virhe ">=10" eli koodi laskee mukaan numerot jotka ovat yhtäsuuria JA isompia kuin 10. Ja koska "test_numbers" sisältää numeron 10, niin siitä tuli yksi ylimääräinen "count".
+
+Korjattu koodi:
+  <img width="2213" height="1403" alt="image" src="https://github.com/user-attachments/assets/cb30ba71-a6b6-44a3-928f-62f6ce8c8d27" />
+
+ </p>
+</details>
+<br><br>
+
 
 
 
