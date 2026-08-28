@@ -1,11 +1,11 @@
 # HarjoitusDebuggaus
 Ohjelmoinnin työkalut ja käyttäjäkokemus- KURSSIN tehtäviä
 
+<details>
 
-
-# Arvaa Luku Debug
-
-<img width="2511" height="1404" alt="arvaa luku debuggaus" src="https://github.com/user-attachments/assets/4f979705-4f79-4946-b38e-f7bd7e7d7747" />
+ <summary> # Arvaa Luku Debug </summary>
+<p>
+  <img width="2511" height="1404" alt="arvaa luku debuggaus" src="https://github.com/user-attachments/assets/4f979705-4f79-4946-b38e-f7bd7e7d7747" />
 
 Screenshotin aikaisen pelin debuggaus:
 1. Mikä on satunnaisesti arvottu numero? = 8
@@ -23,6 +23,8 @@ Kierros kolme: elif,
 Kierros neljä: elif,
 Kierros viisi: else,
 5. Kokeile muuttaa salainen_luku kiinteäksi arvoksi (esim. salainen_luku = 7) ja tarkkaile, miten peli käyttäytyy. = Salainen luku pysyy samana jokaisella pelikerralla, eli jos pelaaja yrittää sitä uudestaan seuraavalla pelikerralla niin vastaus on sama, jolloin pelattavuus häviää = peli on kertakäyttöinen.
+</p>
+</details>
 <br><br>
 # Word length bug debug
 
