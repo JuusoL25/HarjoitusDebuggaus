@@ -29,6 +29,9 @@ Kierros viisi: else,
 <br><br>
 
 <details>
+ <summary> Tenttitehtävät </summary>
+ <p>
+<details>
 <summary>  [Tentti] Word length bug debug </summary> 
 <p>
 <img width="2558" height="1439" alt="World lenght bug" src="https://github.com/user-attachments/assets/cf840336-7ddf-4f37-87b8-7acf6da0d771" />
@@ -88,6 +91,9 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
    Tehtävänä oli tehdä oikeanlaiset sisennykset koodille, ja verrata odotettua "outputtia" toteutuvaan outputtiin. Tuloksena oli odotettu output eli koodissa ei ollut logiikka virhettä.
 
  </p>
+</details>
+
+</p>
 </details>
 
 
