@@ -25,10 +25,10 @@ Kierros viisi: else
 5. Kokeile muuttaa salainen_luku kiinteäksi arvoksi (esim. salainen_luku = 7) ja tarkkaile, miten peli käyttäytyy. = Salainen luku pysyy samana jokaisella pelikerralla, eli jos pelaaja yrittää sitä uudestaan seuraavalla pelikerralla niin vastaus on sama, jolloin pelattavuus häviää = peli on kertakäyttöinen.
 
 
-# Word lenght bug debug
+# Word length bug debug
 
 <img width="2558" height="1439" alt="World lenght bug" src="https://github.com/user-attachments/assets/cf840336-7ddf-4f37-87b8-7acf6da0d771" />
 
 
-Koodi käy wordlistiä läpi ja päivittää "max_lenght" ja "longest_word" muuttujia aina kun uusi pisin sana löytyy. Koodin rivien sisennyksen takia koodissa on ongelmia, eli tabulaattorilla koodi ensin oikein sisennetyksi. "for/if-loopissa" oli ongelma myös kohdassa "if 5>max_lenght". Kun koodin pitää verrata "Word length" tallennettuun max_lenght arvoon. Eli "5" kohdalle täytyy korvata "Word_lenght"
+Koodi käy wordlistiä läpi ja päivittää "max_length" ja "longest_word" muuttujia aina kun uusi pisin sana löytyy. Koodin rivien sisennyksen takia koodissa on ongelmia, eli tabulaattorilla koodi ensin oikein sisennetyksi. "for/if-loopissa" oli ongelma myös kohdassa "if 5>max_length". Kun koodin pitää verrata "Word length" tallennettuun max_length arvoon. Eli "5" kohdalle täytyy korvata "Word_length"
 
