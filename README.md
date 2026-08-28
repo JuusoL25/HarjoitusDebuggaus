@@ -70,7 +70,7 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
 <br><br>
 
 <details>
- <summary></summary>
+ <summary> # Numerolistan sisällön purku yksittäisiin numeroihin kun kutsutaan functionia </summary>
  <p>
   <img width="2210" height="1397" alt="image" src="https://github.com/user-attachments/assets/a39e265a-e0bd-45f2-8483-b59e7612e3a1" />
   Riveillä 2,3,4 sisennys virheellinen. Korjataan se. 
