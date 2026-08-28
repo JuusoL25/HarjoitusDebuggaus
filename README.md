@@ -4,6 +4,9 @@ Debuggausharjoitusten tuloksista screenshotteja
 
 
 # Arvaa Luku Debug
+
+<img width="2511" height="1404" alt="arvaa luku debuggaus" src="https://github.com/user-attachments/assets/4f979705-4f79-4946-b38e-f7bd7e7d7747" />
+
 Screenshotin aikaisen pelin debuggaus:
 1. Mikä on satunnaisesti arvottu numero? = 8
 2. Kuinka monta yritystä pelaajalla menee oikean numeron arvaamiseen? = 5
@@ -23,5 +26,9 @@ Kierros viisi: else
 
 
 # Word lenght bug debug
+
+<img width="2558" height="1439" alt="World lenght bug" src="https://github.com/user-attachments/assets/cf840336-7ddf-4f37-87b8-7acf6da0d771" />
+
+
 Koodi käy wordlistiä läpi ja päivittää "max_lenght" ja "longest_word" muuttujia aina kun uusi pisin sana löytyy. Koodin rivien sisennyksen takia koodissa on ongelmia, eli tabulaattorilla koodi ensin oikein sisennetyksi. "for/if-loopissa" oli ongelma myös kohdassa "if 5>max_lenght". Kun koodin pitää verrata "Word length" tallennettuun max_lenght arvoon. Eli "5" kohdalle täytyy korvata "Word_lenght"
 
