@@ -1,9 +1,9 @@
 # HarjoitusDebuggaus
-Ohjelmoinnin työkalut ja käyttäjäkokemus- KURSSIN tehtäviä
+Ohjelmoinnin työkalut ja käyttäjäkokemus- KURSSIN tehtäviä. Avaa tehtävät klikkaamalla otsikoita
 
 <details>
 
- <summary> # Arvaa Luku Debug </summary>
+ <summary>  Arvaa Luku Debug </summary>
 <p>
   <img width="2511" height="1404" alt="arvaa luku debuggaus" src="https://github.com/user-attachments/assets/4f979705-4f79-4946-b38e-f7bd7e7d7747" />
 
@@ -28,7 +28,7 @@ Kierros viisi: else,
 <br><br>
 
 <details>
-<summary> # Word length bug debug </summary> 
+<summary>  Word length bug debug </summary> 
 <p>
 <img width="2558" height="1439" alt="World lenght bug" src="https://github.com/user-attachments/assets/cf840336-7ddf-4f37-87b8-7acf6da0d771" />
 
@@ -38,7 +38,7 @@ Koodi käy wordlistiä läpi ja päivittää "max_length" ja "longest_word" muut
 
 <br><br>
 <details>
-<summary> # Syntax error tehtävä </summary>
+<summary>  Syntax error tehtävä </summary>
 <p>
 <img width="2498" height="1403" alt="image" src="https://github.com/user-attachments/assets/132ac877-824b-48e5-b5d9-00c714f7169d" />
 
@@ -49,7 +49,7 @@ Rivillä 14 "area = calculate_area(length, width" puuttui kokonaan sulkeva sulku
 <br><br> 
 
 <details>
-<summary> # Indentation error </summary>
+<summary>  Indentation error </summary>
 <p>
 <img width="2204" height="1274" alt="image" src="https://github.com/user-attachments/assets/56b3a905-93be-46a0-aad2-37d31bd93d86" />
 
@@ -59,7 +59,7 @@ Yksinkertaisesti täytyi korjata sisennys funktion sisällä, riveillä 6 ja 7
 <br><br>
 
 <details>
-<summary> # Indentation and typo error </summary>
+<summary>  Indentation and typo error </summary>
 <p>
 <img width="2201" height="1345" alt="image" src="https://github.com/user-attachments/assets/936f75fe-e9d4-4a53-9130-c464f7e60909" />
 
@@ -70,7 +70,7 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
 <br><br>
 
 <details>
- <summary> # Numerolistan sisällön purku yksittäisiin numeroihin kun kutsutaan functionia </summary>
+ <summary>  Numerolistan sisällön purku yksittäisiin numeroihin kun kutsutaan functionia </summary>
  <p>
   <img width="2210" height="1397" alt="image" src="https://github.com/user-attachments/assets/a39e265a-e0bd-45f2-8483-b59e7612e3a1" />
   Riveillä 2,3,4 sisennys virheellinen. Korjataan se. 
