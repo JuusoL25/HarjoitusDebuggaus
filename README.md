@@ -1,6 +1,8 @@
 # HarjoitusDebuggaus
 Ohjelmoinnin työkalut ja käyttäjäkokemus-kurssin tehtäviä. Avaa tehtävät klikkaamalla otsikoita. Tentti tehtävät on merkattu " [tentti]" tägillä.
-
+<details>
+ <summary> morjes </summary>
+ <p>
 <details>
 
  <summary>  Arvaa Luku Debug </summary>
@@ -24,6 +26,8 @@ Kierros neljä: elif,
 Kierros viisi: else,
 5. Kokeile muuttaa salainen_luku kiinteäksi arvoksi (esim. salainen_luku = 7) ja tarkkaile, miten peli käyttäytyy. = Salainen luku pysyy samana jokaisella pelikerralla, eli jos pelaaja yrittää sitä uudestaan seuraavalla pelikerralla niin vastaus on sama, jolloin pelattavuus häviää = peli on kertakäyttöinen.
 </p>
+</details>
+/p>
 </details>
 <br><br>
 
