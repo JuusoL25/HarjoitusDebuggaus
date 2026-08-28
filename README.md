@@ -32,3 +32,11 @@ Kierros viisi: else,
 
 Koodi käy wordlistiä läpi ja päivittää "max_length" ja "longest_word" muuttujia aina kun uusi pisin sana löytyy. Koodin rivien sisennyksen takia koodissa on ongelmia, eli tabulaattorilla koodi ensin oikein sisennetyksi. "for/if-loopissa" oli ongelma myös kohdassa "if 5>max_length". Kun koodin pitää verrata "Word length" tallennettuun max_length arvoon. Eli "5" kohdalle täytyy korvata "Word_length"
 
+# Syntax error tehtävä 
+
+<img width="2498" height="1403" alt="image" src="https://github.com/user-attachments/assets/132ac877-824b-48e5-b5d9-00c714f7169d" />
+
+Rivillä 6 ja 7 sisennys täytyi korjata "blockin" sisään, eli "calculate_area" funktion sisään. 
+Rivillä 14 "area = calculate_area(length, width" puuttui kokonaan sulkeva sulku ")". 
+
+
