@@ -31,6 +31,7 @@ Kierros viisi: else,
 <details>
  <summary> Tenttitehtävät </summary>
  <p>
+  <br><br>
 <details>
 <summary>  [Tentti] Word length bug debug </summary> 
 <p>
