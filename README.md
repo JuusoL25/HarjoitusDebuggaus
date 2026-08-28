@@ -69,5 +69,15 @@ Sisennysvirhe riveillä 5,6,7 ja kirjoitusvirhe rivillä 7: "len(nam)" vaikka pi
 </details>
 <br><br>
 
+<details>
+ <summary></summary>
+ <p>
+  <img width="2210" height="1397" alt="image" src="https://github.com/user-attachments/assets/a39e265a-e0bd-45f2-8483-b59e7612e3a1" />
+  Riveillä 2,3,4 sisennys virheellinen. Korjataan se. 
+  Rivillä 9 kohta "result = calculate_average(numbers)" on virheellinen, kun siitä puuttuu "*" ennen "numbers" sanaa. * symbolia käytetään kun "callataan functionia" ja halutaan purkaa listasta yksittäiset asiat. Tässä tapauksessa "result" avulla callattiin functionia "calculate_average(num1, num2, num3)". Jouduin selvittämään että miksi "*" käytetään listan sisällön purussa, koska en osannut asiaa ennestään.
 
+  
+
+ </p>
+</details>
 
