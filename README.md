@@ -1,0 +1,2 @@
+# HarjoitusDebuggaus
+Debuggausharjoitusten tuloksista screenshotteja
