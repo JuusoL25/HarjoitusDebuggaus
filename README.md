@@ -41,7 +41,7 @@ Rivillä 14 "area = calculate_area(length, width" puuttui kokonaan sulkeva sulku
 
 <br><br> 
 
-#Indentation error
+# Indentation error
 
 <img width="2204" height="1274" alt="image" src="https://github.com/user-attachments/assets/56b3a905-93be-46a0-aad2-37d31bd93d86" />
 
