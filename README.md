@@ -1,5 +1,5 @@
 # HarjoitusDebuggaus
-Debuggausharjoitusten tuloksista screenshotteja
+Ohjelmoinnin työkalut ja käyttäjäkokemus- KURSSIN tehtäviä
 
 
 
