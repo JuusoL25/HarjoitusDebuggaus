@@ -1,7 +1,7 @@
 # HarjoitusDebuggaus
 Ohjelmoinnin työkalut ja käyttäjäkokemus-kurssin tehtäviä. Avaa tehtävät klikkaamalla otsikoita. Tentti tehtävät on merkattu " [tentti]" tägillä.
 
-[OTK TEHTÄVÄT](docs/OTK_JL.md)
+otk tehtävät (/OTK_JL.md)
 
 <details>
 
