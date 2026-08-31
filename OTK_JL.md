@@ -1,7 +1,7 @@
 # HarjoitusDebuggaus
 Ohjelmoinnin työkalut ja käyttäjäkokemus-kurssin tehtäviä. Avaa tehtävät klikkaamalla otsikoita. Tentti tehtävät on merkattu " [tentti]" tägillä.
 
-Tehtävä hakemisto https://github.com/JuusoL25/TVT26_JL/blob/main/README.md
+Kurssihakemisto https://github.com/JuusoL25/TVT26_JL/blob/main/README.md
 
 <details>
 
