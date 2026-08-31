@@ -9,7 +9,7 @@ Tähän repositoryyn kokoan koulun aikaisia tehtäviä ja projekteja. Alla kurss
 # Kurssihakemisto
 Alla linkkejä eri kurssien readme tiedostoihin, joihin palautettu tehtäviä.
 
-<a href="https://github.com/JuusoL25/TVT26_JL/blob/main/OTK_JL.md"> "Ohjelmoinnin työkalut ja käyttäjäkokemus - R504TL307-3004" tehtävät </a>
+- <a href="https://github.com/JuusoL25/TVT26_JL/blob/main/OTK_JL.md"> "Ohjelmoinnin työkalut ja käyttäjäkokemus - R504TL307-3004" tehtävät </a>
 
-<a href="https://github.com/JuusoL25/TVT26_JL/blob/main/JOHOH_JL.md"> "Johdatus ohjelmointiin - R504TL304-3004" tehtävät </a>
+- <a href="https://github.com/JuusoL25/TVT26_JL/blob/main/JOHOH_JL.md"> "Johdatus ohjelmointiin - R504TL304-3004" tehtävät </a>
 
