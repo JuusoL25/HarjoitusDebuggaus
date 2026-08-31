@@ -1,5 +1,5 @@
 # Tietoa minusta 
-Olen Juuso Lindroos. Opiskelen Lapin ammattikorkeakoulussa.
+Olen Juuso Lindroos. Opiskelen Tieto- ja viestintätekniikan insinööriksi Lapin ammattikorkeakoulussa.
 Tähän repositoryyn kokoan koulun aikaisia tehtäviä ja projekteja. Alla kurssihakemisto, josta pääsee lukemaan tehtyjä tehtäviä.
 
 
