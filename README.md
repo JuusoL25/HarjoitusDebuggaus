@@ -1,5 +1,5 @@
 # Tietoa minusta 
-Olen Juuso Lindroos. Opiskelen Lapin ammattikorkeakoulussa 2026-2030. Olen 25v ja asun Lahdessa. Ryhmätunnukseni on RA54T26S.
+Olen Juuso Lindroos. Opiskelen Lapin ammattikorkeakoulussa.
 Tähän repositoryyn kokoan koulun aikaisia tehtäviä ja projekteja. Alla kurssihakemisto,josta pääsee lukemaan tehtyjä tehtäviä.
 
 
